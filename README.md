@@ -8,7 +8,7 @@
 ---
 
 ## Demo Video
-- YouTube Link: <PASTE YOUR VIDEO LINK HERE>
+- https://youtu.be/Uk-Sb-LH3OM
 
 ---
 
@@ -27,7 +27,7 @@
 - https://ilyaswebsite-hggsc8ejfeafdndr.eastus-01.azurewebsites.net
 
 ### Store Front (Azure Static Web Apps)
-- <PASTE YOUR STATIC WEB APP URL HERE>
+- https://delightful-rock-01cad6e1e.1.azurestaticapps.net
 
 ---
 
@@ -96,4 +96,4 @@ Configured to call the deployed APIs (either in `.env.production` or GitHub Acti
   - Use environment variables to connect services
   - Verify messaging integration through RabbitMQ
     
-*AI is used for documentation*
+*AI is used for product services-service code and .md documentation*
